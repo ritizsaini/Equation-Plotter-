@@ -6,6 +6,10 @@
 ### Algorithm:  
 -for the input fuction, I assigned a value of x from range (say -10 to 10) and then find the corresponding values of y and store it. So given f(x,y)=0, we get an equation F(y)=0, and then I find the roots using NewtonRaphson Method. In this method, we take an arbitrary value x near the actual root. Then a tangent is drawn through that corresponding f(x). Where the tangent line touches the x-axis, that is our new x. So as we repeat this algorithm, we get closer and closer to the actual value of root. 
 
+### Assumptions:
+-  potting values of y at a discrete values of x where x is taken small enough so that graph can be plotted with precision. So we shoudl assume it to be smooth
+-  This program will calculate slope which is quite accurate as we are taking our DELTA x of the order 0.001 which is too small.(for the differential graph) 
+
 
 
 
