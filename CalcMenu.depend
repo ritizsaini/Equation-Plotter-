@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1416844075 source:c:\users\tsk\downloads\chintan\mainscreen.cpp
+	<iostream>
+	"SDL.h"
+	"Code.h"
+	<cmath>
+
+1416665139 c:\users\tsk\downloads\chintan\header.h
+	<cstdio>
+	<string>
+	"exprtk.hpp"
+	<iostream>
+
+1416820225 c:\users\tsk\downloads\chintan\code.h
+	<cstdio>
+	<string>
+	"exprtk.hpp"
+	<iostream>
+	<vector>
+
+1416814421 c:\users\tsk\downloads\chintan\code2.h
+	<iostream>
+
